@@ -10,6 +10,7 @@ public class forsumary{
         System.out.println("hello world");
         System.out.println("hahahahah");
         System.out.println("hehehehehehe");
+        System.out.println("heiheiheihei");
     }
 
 }
