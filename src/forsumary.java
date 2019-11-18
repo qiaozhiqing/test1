@@ -8,5 +8,7 @@ public class forsumary{
         Integer[] intarr={1,2,4,5,67,55};
         printArray(intarr);
         System.out.println("hello world");
+        System.out.println("hahahahah");
     }
+
 }
