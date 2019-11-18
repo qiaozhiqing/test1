@@ -9,6 +9,7 @@ public class forsumary{
         printArray(intarr);
         System.out.println("hello world");
         System.out.println("hahahahah");
+        System.out.println("hehehehehehe");
     }
 
 }
